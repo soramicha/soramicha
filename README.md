@@ -1,4 +1,8 @@
-## Hello and welcome 👋
+## Heya! 👋
+
+#### Hi! I'm Sophia, and I'm a rising junior at Cal Poly SLO. Here on this profile are different personal projects I've worked on in the last few years.
+
+#### 🤩 Currently learning and developing a game web app using the MERN (MongoDB, Express.js, React, Node.js) stack!
 
 <!--
 **soramicha/soramicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
