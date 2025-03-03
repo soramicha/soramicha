@@ -2,8 +2,6 @@
 
 #### Hi! I'm Sophia, and I'm a junior at Cal Poly SLO. Here on this profile are different personal projects I've worked on in the last few years.
 
-#### I am currently working on a personal project- a chrome web extension for google news that blocks out articles containing certain keywords. (WIP)
-
 <!--#### 🤩 Currently learning and developing an app...-->
 
 <!--
