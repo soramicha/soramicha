@@ -4,6 +4,9 @@
 
 <!--#### 🤩 Currently learning and developing an app...-->
 ## The most recent personal project I've worked on is my Spotify Ad Skipper on March 20, 2025: https://github.com/soramicha/spotify-ad-skipper
+
+## Future Personal Project Ideas:
+#### Spotify Ad Skipper for iPhone?? - because my sister doesn't use the Spotify app on her computer :(
 <!--
 **soramicha/soramicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
