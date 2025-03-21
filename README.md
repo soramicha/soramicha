@@ -3,7 +3,8 @@
 ## Hi! I'm Sophia, and I'm a junior at Cal Poly SLO. Here on this profile are different personal projects I've worked on in the last few years.
 
 <!--#### 🤩 Currently learning and developing an app...-->
-## The most recent personal project I've worked on is my Spotify Ad Skipper on March 20, 2025: https://github.com/soramicha/spotify-ad-skipper
+# What I've been up to... 🤩
+## A small simple project (March 2025) - a shell script that Spotify Ad Skipper - https://github.com/soramicha/spotify-ad-skipper
 
 ## Future Personal Project Ideas:
 #### Spotify Ad Skipper for iPhone?? - because my sister doesn't use the Spotify app on her computer :(
