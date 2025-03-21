@@ -5,9 +5,6 @@ Hi! I'm Sophia, and I'm a junior at Cal Poly SLO. Here on this profile are diffe
 <!--#### 🤩 Currently learning and developing an app...-->
 # What I've been up to... 🤩
 A small simple project (March 2025) - a shell script that Spotify Ad Skipper - https://github.com/soramicha/spotify-ad-skipper
-
-# Future Personal Project Ideas:
-Spotify Ad Skipper for iPhone?? - because my sister doesn't use the Spotify app on her computer :(
 <!--
 **soramicha/soramicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
