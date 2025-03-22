@@ -7,7 +7,8 @@ Hi! I'm Sophia, and I'm a junior at Cal Poly SLO. Here on this profile are diffe
 A small simple project (March 2025) - a shell script that Spotify Ad Skipper - https://github.com/soramicha/spotify-ad-skipper
 
 # Ongoing Projects...👀
-1. Google Chrome Browser Extension (News Blocker based on certain key words)
+1. Marquee (Marketplace Web Application)
+2. Google Chrome Browser Extension (News Blocker based on certain key words)
 <!--
 **soramicha/soramicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
