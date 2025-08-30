@@ -1,6 +1,6 @@
 # Heya! ✌️😉
 
-Hi! I'm Sophia, and I'm a junior at Cal Poly SLO. Here on this profile are different personal projects I've worked on in the last few years.
+Hi! I'm Sophia, and I'm a senior at Cal Poly SLO. Here on this profile are different personal projects I've worked on in the last few years.
 
 <!--#### 🤩 Currently learning and developing an app...-->
 # What I've been up to... 🤩
